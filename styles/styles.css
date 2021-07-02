@@ -83,12 +83,31 @@ h3 {
     width: 140px;
 }
 
-.header-link {
+.header-link1 {
     color: #ff0040;
     font-size: 1.2rem;
-    margin: auto 15rem auto 15rem;
+    position: absolute;
+    left: 15rem;
+
+
 
 }
+
+.header-link2 {
+    color: #ff0040;
+    font-size: 1.2rem;
+
+}
+
+.header-link3 {
+    color: #ff0040;
+    font-size: 1.2rem;
+    position: absolute;
+    right: 15rem;
+
+
+}
+
 
 .bar {
     z-index: 1;
