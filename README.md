@@ -10,4 +10,4 @@
 
 ![image1](https://user-images.githubusercontent.com/80406429/124240239-2e843580-db38-11eb-850c-03f60a5d9aeb.jpeg)
 
-[Click here to open website](https://gabbar23.github.io/Tiffin-Website-Food-Ordering-Website/)
+[Click here to open website](https://gabbar23.github.io/Personal-Website/)
